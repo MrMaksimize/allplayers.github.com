@@ -31,6 +31,10 @@ Here at [AllPlayers.com](https://www.allplayers.com/) we have a lot of fun worki
    *  [Development workflow and rollout](http://2011.drupalcampaustin.org/sessions/development-workflow-and-rollout) - [video](http://vimeo.com/33678298)
    *  [Mobile Web Development with Drupal](http://2011.drupalcampaustin.org/sessions/mobile-web-development-drupal) - [video](http://vimeo.com/33052433)
    *  [Building a services-oriented architecture with the Services module](http://2011.drupalcampaustin.org/sessions/building-services-oriented-architecture-services-module) - [video](http://vimeo.com/33785095)
+*  [DrupalCamp Chicago](http://drupalcampchicago.org)
+   *  [Websites for Events](http://drupalcampchicago.org/sessions/websites-events) - [slides](http://prezi.com/_whvmtt8ilae/websites-for-events) - [video](http://vimeo.com/33763269)
+   *  [Dev-Stage-Prod](http://drupalcampchicago.org/sessions/dev-stage-prod) - [slides](http://drupalcampchicago.org/sites/default/files/slides/Dev-Stage-Prod_Drupal.pdf) - [video](http://vimeo.com/34375650)
+   *  [Mobile Web Development with Drupal](http://drupalcampchicago.org/sessions/mobile-web-development-drupal) - [slides](http://prezi.com/rekcalqfgwzh/mobile-development-with-drupal) - [video](http://vimeo.com/33816817)
+   *  [Oh The Things You Can Do with an API!](http://drupalcampchicago.org/sessions/oh-things-you-can-do%E2%80%A6-api) - [slides](http://prezi.com/fwnj5l-adbmx/drupal-services-2) - [video](http://vimeo.com/34031755)  
    
-
 (Like something see here? Perhaps you should consider [working with us](https://www.allplayers.com/careers).)
