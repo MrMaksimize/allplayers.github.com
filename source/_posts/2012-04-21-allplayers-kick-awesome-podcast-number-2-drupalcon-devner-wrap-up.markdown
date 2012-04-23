@@ -6,7 +6,7 @@ comments: true
 categories: [Podcast, Drupal]
 ---
 
-Join Chris, Max, David, James and Allen from AllPlayers as they talk about the latest drupal news, how we planned to plan, and much more!
+Join Chris, Max, David, James and Allan from AllPlayers as they talk about the latest drupal news, how we planned to plan, and much more!
 
 Get it while it's hot!
 
