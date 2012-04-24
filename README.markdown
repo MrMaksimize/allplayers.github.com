@@ -32,5 +32,5 @@ If you wish to change the date of the post, you must change the data inside the 
 ##Deploying
 `rake generate`  
 `rake deploy`  
-These will generate your html files and copy them into the _deploy directory.  Commit both source branch and master branch and make a pull request for both.
+These will generate your html files and copy them into the _deploy directory, as well as push your _deploy directory to the origin remote. Commit your source branchand make a pull request for both.
 
