@@ -9,8 +9,7 @@ So we finally did it! We started a podcast. Join Chris, Max, Travis, David, Jame
 
 Get it while it's hot!
 
-[AllPlayers Kick Awesome Podcast #1 - Planning to Plan](https://s3.amazonaws.com/allplayers/march-12.mp3)
-
+<a href="https://s3.amazonaws.com/allplayers/march-12.mp3" title = "AllPlayers Kick Awesome Podcast #1 - Planning to Plan" rel="enclosure">AllPlayers Kick Awesome Podcast #1 - Planning to Plan</a>
 ## Links from the show
 
 * [Google Apps](http://apps.google.com)

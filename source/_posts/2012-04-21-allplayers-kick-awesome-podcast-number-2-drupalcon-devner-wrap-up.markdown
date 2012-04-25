@@ -10,8 +10,7 @@ Join Chris, Max, David, James and Allan from AllPlayers as they talk about the l
 
 Get it while it's hot!
 
-[AllPlayers Kick-Awesome Podcast #2 - DrupalCon Devner Wrap-Up](https://s3.amazonaws.com/allplayers/april-2+2012.mp3)
-
+<a href="https://s3.amazonaws.com/allplayers/april-2+2012.mp3" title="AllPlayers Kick-Awesome Podcast #2 - DrupalCon Devner Wrap-Up" rel="enclosure">AllPlayers Kick-Awesome Podcast #2 - DrupalCon Devner Wrap-Up</a>
 ## Links from the show
 
 * [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
