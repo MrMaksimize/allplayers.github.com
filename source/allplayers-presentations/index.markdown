@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-Here at [AllPlayers.com](https://www.allplayers.com/) we have a lot of fun working on **awesome** stuff to *revolutionizing recreational activities*! However, we don't often get to share some of the things we are doing "behind-the-scenes" to enhance the technologies we build on. We *love* open-source and sharing, and we have had many great opportunities at camps and conferences to discuss and talk about what we do. So, in the spirit of learning - here is a quick aggregation of talks and write-ups:
+Here at [AllPlayers.com](https://www.allplayers.com/) we have a lot of fun working on **awesome** stuff to *revolutionize recreational activities*! However, we do not often get to share some of the things we are doing "behind-the-scenes" to enhance the technologies we build on. We *love* open-source and sharing, and we have had many great opportunities at camps and conferences to discuss and talk about what we do. So, in the spirit of learning - here is a quick aggregation of talks and write-ups:
  
  *  **[Openca.mp](http://openca.mp)**
     *  [Build Your Social Website Quickly](http://openca.mp/speakers/valerie-stewart/)
