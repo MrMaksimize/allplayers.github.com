@@ -10,7 +10,7 @@ categories: [EatN'Geek]
 
 Melissa McKay, wife of the CEO of AllPlayers.com, Jason McKay, indulges us with her hobby of International Security. Her talk is specifically about the content that was released on the Wikileaks website and a brief overview of those involved as well as some known specifics about Government Security Protocol when it comes to technology.
 
-I'd hate to spoil the video with a long drawn out explaination of what she went over. Definatly worth watching!
+I'd hate to spoil the video with a long drawn out explanation of what she went over. Definitely worth watching!
 
 ###Links
 * [Merged Manning-Lamo Chat Logs](http://firedoglake.com/merged-manning-lamo-chat-logs/) - I'd pay particular attention to May 25
