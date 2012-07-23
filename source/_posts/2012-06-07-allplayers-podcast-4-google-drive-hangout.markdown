@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "AllPlayers Podcast 4 - Google Drive - Hangout, Booth Babes, and Code Standards"
+title: "AllPlayers Kick-Awesome Podcast 4 - Google Drive - Hangout, Booth Babes, and Code Standards"
 date: 2012-06-07 08:57
 comments: true
-categories: 
+categories: [Podcast, Drupal]
+
 ---
 
 Once again, join the gang as Allan, Chris, James, and Max cover a large spread of multiple topics.
