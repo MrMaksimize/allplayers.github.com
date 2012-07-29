@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AllPlayers Kick-Awesome Podcast #2 - DrupalCon Devner Wrap-Up"
+title: "AllPlayers Kick-Awesome Podcast #2 - DrupalCon Denver Wrap-Up"
 date: 2012-04-12 15:31
 comments: true
 categories: [Podcast, Drupal]
