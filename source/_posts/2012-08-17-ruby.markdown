@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Ruby Rails and AllPlayers.com"
+date: 2012-08-17 15:34
+comments: true
+categories: [EatN'Geek]
+---
+<iframe src="http://player.vimeo.com/video/47687800" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+[Arturo Contreras](https://twitter.com/art_k5) introduces us to the basics of the ruby language, and ruby on rails. He then demonstrates how ruby is being used to import data from Google Docs into AllPlayers.com via REST.
+
+Ruby was conceived as an object oriented language with a strong emphasis on developer happiness. Arturo shows us how to use ruby on the command line, including defining and using methods and classes.
+
+Some quick links to get you started:
+
+- [Ruby in 20 minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
+- [Ruby on Rails, Getting Started](http://guides.rubyonrails.org/v2.3.8/getting_started.html)
+
+Other important links:
+
+- [Ruby REST client](https://github.com/archiloque/rest-client)
+- [Google Document Manager](https://code.google.com/p/gdata-samples/source/browse/#svn/trunk/doclist/DocListManager)
+- [Gem Bundler](http://gembundler.com/)
+
+<iframe src="https://docs.google.com/a/allplayers.com/presentation/embed?id=1Bwlryc_iQhI0xiDixpgL2CWLVI-r0VfS4_SECnLK0kU&start=false&loop=false&delayms=5000" frameborder="0" width="630" height="535" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
