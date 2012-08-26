@@ -22,4 +22,5 @@ Other important links:
 - [Google Document Manager](https://code.google.com/p/gdata-samples/source/browse/#svn/trunk/doclist/DocListManager)
 - [Gem Bundler](http://gembundler.com/)
 
-<iframe src="https://docs.google.com/a/allplayers.com/presentation/embed?id=1Bwlryc_iQhI0xiDixpgL2CWLVI-r0VfS4_SECnLK0kU&start=false&loop=false&delayms=5000" frameborder="0" width="630" height="535" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<script async class="speakerdeck-embed" data-id="503998109508400002024ab9" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
