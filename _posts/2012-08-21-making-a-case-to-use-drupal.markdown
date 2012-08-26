@@ -3,7 +3,7 @@ layout: post
 title: "Making a Case To Use Drupal"
 date: 2012-08-21 14:40
 comments: true
-categories: ['Drupal','Presentations']
+categories: [Drupal, Presentations]
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/4YGYdzlYqDw" frameborder="0" allowfullscreen></iframe>
