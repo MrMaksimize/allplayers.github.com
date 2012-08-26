@@ -1,0 +1,50 @@
+<div class="span4">
+  <div class="sidebar-module">
+    <section>
+      <h4>About us</h4>
+      <p>The <a href="https://www.allplayers.com">AllPlayers.com</a> team provides technology services to national organizations and local groups across the country. We have representatives and offices all across America, with offices in Ohio, Colorado, Philadelphia and our headquarters in Texas. We have a great representation of America and the different seasonal and cultural needs of our communities. </p>
+      <p>This is the blog of the allplayers devs</p>
+    </section>
+  </div>
+  <div class="sidebar-module">
+    <h4>Recent Posts</h4>
+    <ul>
+      {% for post in site.posts limit:3 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="sidebar-module">
+    <h4>Latest Tweets</h4>
+    <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script>
+    new TWTR.Widget({
+      version: 2,
+      type: 'profile',
+      rpp: 4,
+      interval: 30000,
+      width: 'auto',
+      height: 300,
+      theme: {
+        shell: {
+          background: '#ffffff',
+          color: '#000000'
+        },
+        tweets: {
+          background: '#ffffff',
+          color: '#000000',
+          links: '#000000'
+        }
+      },
+      features: {
+        scrollbar: false,
+        loop: false,
+        live: false,
+        behavior: 'all'
+      }
+    }).render().setUser('allplayers').start();
+    </script>
+  </div>
+</div>

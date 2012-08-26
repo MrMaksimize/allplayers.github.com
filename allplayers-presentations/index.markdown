@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Allplayers Presentations"
 date: 2012-04-21 09:45
 comments: true

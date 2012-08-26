@@ -34,3 +34,6 @@ If you wish to change the date of the post, you must change the data inside the 
 `rake deploy`  
 These will generate your html files and copy them into the _deploy directory, as well as push your _deploy directory to the origin remote. Commit your source branchand make a pull request for both.
 
+## Dev Notes
+
+*  (tags) https://gist.github.com/143571#gistcomment-7054
