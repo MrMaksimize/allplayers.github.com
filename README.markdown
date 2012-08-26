@@ -36,4 +36,7 @@ These will generate your html files and copy them into the _deploy directory, as
 
 ## Dev Notes
 
+*  http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
 *  (tags) https://gist.github.com/143571#gistcomment-7054
+*  (front posts) http://orgmode.org/worg/org-tutorials/org-jekyll.html
+
