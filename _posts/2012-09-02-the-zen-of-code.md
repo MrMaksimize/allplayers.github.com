@@ -36,4 +36,4 @@ There is no bullet list to follow in this post because every language has its pr
 
 I guarantee, when you make that pull request, or when you come back to to reuse your code on the next project, you'll feel much happier. Much calmer. Much more complete.
 
-Ready? Take a deep breath. Get a beer. Get a coffee. Mix them together and chug. Now you're in a perfect state to write good code. Give it some love!
+Ready? Take a deep breath. Get a coffee. Chug. Now you're in a perfect state to write good code. Give it some love!
