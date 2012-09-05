@@ -7,6 +7,9 @@ layout: default
   {% for post in site.posts limit: 5 %}
     <div class="post_info">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {% if post.author %}
+      <a class="btn btn-small disabled pull-right" href="{{ post.author_url }}#"><i class="icon-user"></i> {{ post.author }}</a>
+      {% endif %}
       <!-- {{ post.date | date:"%Y-%m-%d" }} -->
       <br />
       {{ post.content }}
@@ -16,5 +19,6 @@ layout: default
   </ul>
   <br />
   <a href="/archives">More...</a>
+  <br />
 </div>
 
