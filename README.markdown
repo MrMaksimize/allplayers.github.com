@@ -16,7 +16,7 @@ Browse to http://localhost:3000
 
 ## Deploying
 
-Make a PR from your local edit branch to "gh-pages" on allplayers.github.com.
+Make a PR from your local edit branch to "master" on allplayers.github.com.
 
 ## Dev Notes
 
