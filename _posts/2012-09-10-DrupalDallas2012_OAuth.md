@@ -2,7 +2,7 @@
 layout: post
 title: "OAuth: the spec, the dance, and Drupal"
 date: 2012-09-10 20:00
-comments: false
+comments: true
 author: Chris Christensen
 author_url: http://twitter.com/imetchrischris
 categories:
