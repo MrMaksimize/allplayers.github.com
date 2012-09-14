@@ -2,7 +2,7 @@
 layout: post
 title: Rollin like a pro
 date: 2012-09-03 20:00
-comments: false
+comments: true
 author: Chris Christensen
 author_url: http://twitter.com/imetchrischris
 categories: [Deployment, Puppet, Cross-Post]
