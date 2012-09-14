@@ -5,7 +5,7 @@ date: 2012-09-03 20:00
 comments: false
 author: Chris Christensen
 author_url: http://twitter.com/imetchrischris
-categories: [Deployment, Puppet]
+categories: [Deployment, Puppet, Cross-Post]
 ---
 
 I have recently been on a bit of a devops journey in an attempt to optimize for happiness (and some substantial learning). At [AllPlayers.com](https://allplayers.com) we've committed to Puppet for a variety of configuration management tasks; ranging from in office infrastructure, to developer sandboxes, to our production application. Given the recent opportunity to work on a project a bit out of band from our main application(s) I was in a mode to seek out configuration management and deployment on par with process like {heroku, appfog, phpfog, etc…}. It turns out this magic is only a few scripts and some discipline away!
