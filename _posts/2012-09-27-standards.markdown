@@ -52,4 +52,4 @@ When I describe what we're doing:
 
 ### Sound interesting?
 
-Then [let us know you're interested](https://www.allplayers.com/careers) and/or feel free to comment or [hang out in IRC (#allplayers)](http://webchat.freenode.net/?channels=allplayers&randomnick=1&prompt=1) with some like-minded devs.
+Then [let us know you're interested](https://www.allplayers.com/home/about/careers) and/or feel free to comment or [hang out in IRC (#allplayers)](http://webchat.freenode.net/?channels=allplayers&randomnick=1&prompt=1) with some like-minded devs.
