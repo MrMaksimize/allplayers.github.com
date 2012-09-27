@@ -13,7 +13,7 @@ author: Allan Chappell
 
 I know... I know... Late again... I have a legit reason this time... I promise...
 
-No takers? Fine. Well reguardless, the podcast has been availiable on youtube for a while now. We just haven't gotten around to getting it up here. With that said, *Here at AllPlayers.com, the developers take pride in quality, timliness, and perfection*...
+No takers? Fine. Well reguardless, the podcast has been availiable on youtube for a while now. We just haven't gotten around to getting it up here. With that said, *Here at AllPlayers.com, the developers take pride in quality, timeliness, and perfection*...
 
 Still not buying it? Well it was worth another shot.
 
@@ -28,12 +28,12 @@ Planning is an important part of hackathons. The developers discuss what AllPlay
  * Knowledge of how other groups want to use our product API
  * Promote quality working apps (Slideshow apps are mentioned several times)
 
-We also talk about tools that are great for hackathons. In particular twitter bootstrap, some sdks we built, and OAth in general.
+We also talk about tools that are great for hackathons. In particular twitter bootstrap, some sdks we built, and OAuth in general.
 
 ## Picks:
 * Allan - [Whitehouse Honey Ale](https://petitions.whitehouse.gov/petition/release-recipe-honey-ale-home-brewed-white-house/XkpkYwc0)
 * Chris 
-    - High Jacks Allan's Pick
+    - Hijacks Allan's Pick
     - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
     - [allplayers-theme overrides](https://github.com/AllPlayers/allplayers-theme)
 * Max: 
