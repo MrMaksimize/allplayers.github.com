@@ -25,6 +25,9 @@ Finally, Arturo dives into how we set up automated testing for our client and an
 
 <iframe src="http://player.vimeo.com/video/51234097?title=1&amp;byline=1&amp;portrait=1" width="560" height="315" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/51234097">Eat 'n Geek: Guzzle TravisCI - Arturo</a> from <a href="http://vimeo.com/allplayers">AllPlayers.com</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
+###Presentation:
+<script async class="speakerdeck-embed" data-id="507b6d236a8416000202187e" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 
 
