@@ -4,6 +4,8 @@ title: "Information Security Breach - Wikileaks Scandal"
 date: 2012-07-12 19:02
 comments: true
 categories: [EatN'Geek]
+video: http://www.youtube.com/watch?v=YMK1GXnQFb0
+image: http://atlassecurityservices.us/wp-content/uploads/2012/08/CompSec.png
 ---
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/YMK1GXnQFb0" frameborder="0" allowfullscreen></iframe>

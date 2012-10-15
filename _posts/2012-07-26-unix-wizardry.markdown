@@ -4,6 +4,8 @@ title: "UNIX wizardry"
 date: 2012-07-26 13:00
 comments: true
 categories: [EatN'Geek]
+video: https://vimeo.com/46470453
+image: http://www.dbametrix.com/img/articles/small/oracle-unix-linux.jpg
 ---
 
 <iframe src="http://player.vimeo.com/video/46470453" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/46470453">Eat N Geek 2012-07-26</a>

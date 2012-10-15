@@ -4,6 +4,8 @@ title: "Regular Expressions and You"
 date: 2012-08-13 10:05
 comments: true
 categories: [EatN'Geek]
+video: https://vimeo.com/47263145
+image: http://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 ---
 
 <iframe src="http://player.vimeo.com/video/47263145" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/47263145">Eat N Geek 2012-08-09</a>
