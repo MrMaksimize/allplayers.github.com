@@ -17,10 +17,10 @@
   <link rel="stylesheet" href="/assets/osmplayer/templates/default/css/osmplayer_default.css">
   <script type="text/javascript">
       $(function() {
-        $("#eatngeek-player").osmplayer({
+        $("#{{ page.playlist }}-player").osmplayer({
           width: '100%',
           height: '600px',
-          playlist: window.location.origin + '/eatngeek-playlist.xml',
+          playlist: window.location.origin + '/{{ page.playlist }}-playlist.xml',
           logo: '/assets/osmplayer/logo.png'
         });
       });
