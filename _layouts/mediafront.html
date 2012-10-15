@@ -7,19 +7,11 @@
   <div class="container">
     <br />
     <div class="row">
-      <div class="span8">
+      <div class="span12">
         <h1>{{ page.title }}</h1>
-        <script type="text/javascript">
-          $(function() {
-    $("#youtube").osmplayer({
-      width: '100%',
-      height: '600px'
-    });
-  });
-        </script>
-       <video id="youtube" src="http://www.youtube.com/watch?v=dTAAsCNK7RA"></video>
+        <div id="eatngeek-player"></div>
       </div>
-      {% include sidebar.snippet %}
+      
     </div>
   </div>
   {% include footer.snippet %}

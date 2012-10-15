@@ -4,6 +4,8 @@ title: "Building a RESTful web architectures with Express.js "
 date: 2012-08-20 12:00
 comments: true
 categories: [EatN'Geek]
+video: http://www.youtube.com/watch?v=F2qsnYkF-5M
+image: http://codevisually.com/wp-content/uploads/2012/07/express_full.jpeg
 ---
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/F2qsnYkF-5M?list=UUY_Uc6oW8Zsbwhn-LbzGSaw&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
