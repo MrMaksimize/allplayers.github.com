@@ -7,7 +7,7 @@ categories: [Podcast, Drupal]
 author: Allan Chappell
 audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/09-23-2012--Number-6.mp3
 image: http://1.bp.blogspot.com/-HOlZDqxl0aU/T6toWXsjQaI/AAAAAAAAATg/IiAhmpkdndE/s1600/hackathon.jpg
-video: 9_zMZwKqpOY
+youtube: 9_zMZwKqpOY
 ---
 
 I know... I know... Late again... I have a legit reason this time... I promise...

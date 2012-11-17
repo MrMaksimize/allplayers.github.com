@@ -6,7 +6,7 @@ comments: true
 categories: [Podcast, Drupal]
 audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/07-24-2012--Number-5.mp3
 image: http://aleheads.files.wordpress.com/2012/06/money.jpg
-video: sl652VrO6S0
+youtube: sl652VrO6S0
 ---
 
 During this podcast our resident ecommerce lead: [Glenn Pratt](https://twitter.com/glennpratt) discussed the "ins and outs" of [Drupal commerce](http://drupal.org/project/commerce), with a particular focus on an ecommerce marketplace.

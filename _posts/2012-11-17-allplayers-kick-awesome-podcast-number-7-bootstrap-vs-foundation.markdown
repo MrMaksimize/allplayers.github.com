@@ -5,9 +5,9 @@ date: 2012-11-02 10:00
 comments: true
 categories: [Podcast, Drupal]
 author: Maksim Pecherskiy
-audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/09-23-2012--Number-6.mp3
+audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/10-02-2012--Number-7.mp3
 image: http://designshack.net/wp-content/uploads/cssfoundation-8.jpg
-video: B55XSuwTvBI
+youtube: B55XSuwTvBI
 ---
 
 As of today I have officially decided I'm a horrible person.  It's so much fun to actually make the podcasts, but then I always slack when it's my turn to upload them.  Either way, this one is timeless.
