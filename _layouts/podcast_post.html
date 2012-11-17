@@ -2,9 +2,14 @@
 layout: default
 ---
 <div id="post">
-{% if page.video %}
+{% if page.youtube %}
     <h2>Watch!</h2>
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+{% endif %}
+
+{% if page.vimeo %}
+    <h2>Watch!</h2>
+    <iframe src="http://player.vimeo.com/video/{{ page.vimeo }}" width="560" height="315" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 {% endif %}
 
 {% if page.audio %}
