@@ -1,16 +1,15 @@
 ---
-layout: post
+layout: podcast_post
 title: "AllPlayers Kick-Awesome Podcast #2 - DrupalCon Denver Wrap-Up"
 date: 2012-04-12 15:31
 comments: true
 categories: [Podcast, Drupal]
+audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/04-02-2012--Number-2.mp3
+image: http://techneblog.com/sites/default/files/images/denver.png
 ---
 
 Join Chris, Max, David, James and Allan from AllPlayers as they talk about the latest drupal news, how we planned to plan, and much more!
 
-Get it while it's hot!
-
-<a href="https://s3.amazonaws.com/allplayers/april-2+2012.mp3" title="AllPlayers Kick-Awesome Podcast #2 - DrupalCon Devner Wrap-Up" rel="enclosure">AllPlayers Kick-Awesome Podcast #2 - DrupalCon Devner Wrap-Up</a>
 ## Links from the show
 
 * [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: podcast_post
 title: "AllPlayers Kick-Awesome Podcast 4 - Google Drive - Hangout, Booth Babes, and Code Standards"
 date: 2012-06-07 08:57
 comments: true
 categories: [Podcast, Drupal]
-
+audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/05-28-1021--Number-4.mp3
+image: http://www.watermarkproductsolutions.com/wp-content/uploads/2011/03/hh_standards_and_codes.jpg
+video: 1fhYdn0WuO4
 ---
 
 Once again, join the gang as Allan, Chris, James, and Max cover a large spread of multiple topics.
@@ -18,8 +20,6 @@ Max brings up a passionate subject that gets the whole team debating as Allan tr
 Lastly, James explains PSR1 and PSR2 and the importance of code standards.
 
 Enjoy!
-
-<a href='http://www.youtube.com/watch?v=1fhYdn0WuO4' rel="enclosure">AllPlayers Kick-Awesome Podcast #4</a>
 
 ##Links from the show
 

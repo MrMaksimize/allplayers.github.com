@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div id="post">
+{% if page.video %}
+    <h2>Watch!</h2>
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+{% endif %}
+
+{% if page.audio %}
+    <h2>Listen!</h2>
+    <a href="{{ page.audio }}" title = "{{ page.title }}" rel="enclosure">{{ page.title }}</a>
+{% endif %}
+
+<h2>Read!</h2>
+{{ content }}
+</div>
+
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    {% for post in site.related_posts limit:3 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: podcast_post
 title: "AllPlayers Kick-Awesome Podcast #3 - 00110011"
 date: 2012-04-25 12:55
 comments: true
 categories: [Podcast, Drupal]
+audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/04-23-2012--Number-3.mp3
+image: http://1.bp.blogspot.com/_qBN_dFzAuCo/TPzItFGmfwI/AAAAAAAAB4M/RoQ5lSV41uA/s1600/drupal-installation-profiles-distrubutions-features.png
 ---
 
 Join Chris, Max, James and Allan from AllPlayers as they discuss Drupal distributions, small applications, how beer makes men smarter and more!
-
-<a href="https://s3.amazonaws.com/allplayers/april_23_2012.mp3" title="AllPlayers Kick-Awesome Podcast #3 - 00110011" rel="enclosure">AllPlayers Kick-Awesome Podcast #3 - 0011</a>
 
 ## Links from the show
 
