@@ -5,7 +5,7 @@ date: 2012-07-22 11:01
 comments: true
 categories: EatN'Geek
 author: Maksim Pecherskiy
-video: http://www.youtube.com/watch?v=X1Dzn_36bv4
+youtube: X1Dzn_36bv4
 image: http://www.connectioncafe.com/assets/blog-images/baseball2.jpg
 ---
 

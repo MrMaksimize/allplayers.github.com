@@ -5,7 +5,7 @@ date: 2012-10-14 11:01
 comments: true
 categories: EatN'Geek
 author: Maksim Pecherskiy
-video: https://vimeo.com/51234097
+vimeo: 51234097
 image: http://guzzlephp.org/_static/guzzle.png
 ---
 

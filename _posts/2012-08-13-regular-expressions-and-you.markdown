@@ -4,7 +4,7 @@ title: "Regular Expressions and You"
 date: 2012-08-13 10:05
 comments: true
 categories: [EatN'Geek]
-video: https://vimeo.com/47263145
+vimeo: 47263145
 image: http://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 ---
 

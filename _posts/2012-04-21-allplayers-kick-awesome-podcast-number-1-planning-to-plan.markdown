@@ -1,15 +1,14 @@
 ---
-layout: post
+layout: podcast_post
 title: "AllPlayers Kick-Awesome Podcast #1 - Planning To Plan"
 date: 2012-03-21 15:25
 comments: true
 categories: [Podcast, Drupal]
+image: http://i.telegraph.co.uk/multimedia/archive/02145/exit_2145472c.jpg
+audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/03-12-2012--Number-1.mp3
 ---
 So we finally did it! We started a podcast. Join Chris, Max, Travis, David, James and Allan from AllPlayers as they talk about the latest drupal news, how we planned to plan, and much more!
 
-Get it while it's hot!
-
-<a href="https://s3.amazonaws.com/allplayers/march-12.mp3" title = "AllPlayers Kick Awesome Podcast #1 - Planning to Plan" rel="enclosure">AllPlayers Kick Awesome Podcast #1 - Planning to Plan</a>
 ## Links from the show
 
 * [Google Apps](http://apps.google.com)

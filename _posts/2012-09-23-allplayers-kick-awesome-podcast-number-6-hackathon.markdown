@@ -1,15 +1,14 @@
 ---
-layout: post
+layout: podcast_post
 title: "AllPlayers Kick-Awesome Podcast 6 - Hackathon"
 date: 2012-09-23 10:00
 comments: true
 categories: [Podcast, Drupal]
 author: Allan Chappell
+audio: http://allplayers.s3.amazonaws.com/AllPlayersKickAwesomePodcast/09-23-2012--Number-6.mp3
+image: http://1.bp.blogspot.com/-HOlZDqxl0aU/T6toWXsjQaI/AAAAAAAAATg/IiAhmpkdndE/s1600/hackathon.jpg
+youtube: 9_zMZwKqpOY
 ---
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/9_zMZwKqpOY" frameborder="0" allowfullscreen></iframe>
-
-------
 
 I know... I know... Late again... I have a legit reason this time... I promise...
 
