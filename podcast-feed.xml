@@ -23,7 +23,7 @@ layout: nil
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <id>{{ site.url }}{{ post.id }}</id>
         <content type="html">
-          <![CDATA[{{ post.audio }}{{ post.content | expand_urls: site.url | cdata_escape }}]]>
+          <![CDATA[<a href="{{ post.audio }}" title="{{ post.title }}" rel="enclosure">{{ post.title }}</a>{{ post.content | expand_urls: site.url | cdata_escape }}]]>
         </content>
       </entry>
     {% endif %}
